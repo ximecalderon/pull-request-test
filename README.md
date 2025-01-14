@@ -12,6 +12,6 @@ Fundamentals Enero 2025
 - Github profile link: https://github.com/GastonMS
 =======
 ### David del Pozo
-- Github username: DvDavor
+- Github username: DavDavor
 - Github profile lin: https://github.com/DvDavor
 >>>>>>> 4fdf403 (Add David del Pozo info)
