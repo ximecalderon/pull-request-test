@@ -9,3 +9,7 @@ Fundamentals Enero 2025
 ### Amador Manrique
 - Github username: GastonMS
 - Github profile link: https://github.com/GastonMS
+
+### Fredy Mendoza
+- Github username: fredymendoza
+- Github profile lin: https://github.com/fredymendoza
