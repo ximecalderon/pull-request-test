@@ -9,3 +9,5 @@ Fundamentals Enero 2025
 ### Victor Rojas
 - Github username: VictorRojas101007
 - Github profile lin: https://github.com/VictorRojas101007
+
+## Alonso Solorzano
