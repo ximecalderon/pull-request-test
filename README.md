@@ -13,3 +13,7 @@ Fundamentals Enero 2025
 ### Ellery Minaya
 - Github username: ellerycc
 - Github profile lin: https://github.com/ellerycc
+
+### Jonathan Quispe
+- Github username: xlelouchx1
+- Github profile lin: https://github.com/xlelouchx1
