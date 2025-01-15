@@ -13,3 +13,8 @@ Fundamentals Enero 2025
 ### Ellery Minaya
 - Github username: ellerycc
 - Github profile lin: https://github.com/ellerycc
+
+
+### Abraham Hernández
+- Github username: abrahamhdzcruz
+- Github profile lin: https://github.com/abrahamhdzcruz
